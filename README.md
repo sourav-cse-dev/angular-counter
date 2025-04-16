@@ -14,13 +14,13 @@
 
 ## Project Learnings & Challenges
 
-In this project I have learned & applied
+In this project I have learned & applied,
 
 - _interpolation_,
 - _ngSwitch_ & _ngSwitchCase_ in _CommonModule_,
 - _ngStyle_ and
 - _ngClass_
-  of Angular.
+of Angular.
 
 ## Getting Started
 
