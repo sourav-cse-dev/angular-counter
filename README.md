@@ -1,4 +1,4 @@
-# Counter App - Angular
+# Counter App
 
 - This is a simple counter application.
 - There are two buttons named Increment & Decrement.
