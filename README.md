@@ -1,16 +1,25 @@
 # Counter
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
+- This is a simple counter application.
+- There are two buttons named Increment & Decrement.
+- By clicking on increment button the counter value increased by 1 and by clicking decrement button the counter value is decreased by 1.
+- This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
 
 ## Project Images
 
-![Project Image 1](./assets/project-image-neutral.png)
-![Project Image 2](./assets/project-image-positive.png)
-![Project Image 1](./assets/project-image-negative.png)
+[Project Image 1](./assets/project-image-neutral.png)
+[Project Image 2](./assets/project-image-positive.png)
+[Project Image 1](./assets/project-image-negative.png)
 
 ## Project Learnings & Challenges
 
-In this project I have learned & applied _interpolation_, _ngSwitch_ & _ngSwitchCase_ in _CommonModule_, _ngStyle_ and _ngClass_ of Angular.
+In this project I have learned & applied
+
+- _interpolation_,
+- _ngSwitch_ & _ngSwitchCase_ in _CommonModule_,
+- _ngStyle_ and
+- _ngClass_
+  of Angular.
 
 ## Getting Started
 
@@ -58,3 +67,11 @@ ng serve -o
 
 
 ```
+
+## Contributions
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Contact
+
+You can reach me at [sourav.seu.cse@gmail.com].
