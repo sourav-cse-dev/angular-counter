@@ -3,13 +3,14 @@
 - This is a simple counter application.
 - There are two buttons named Increment & Decrement.
 - By clicking on increment button the counter value increased by 1 and by clicking decrement button the counter value is decreased by 1.
+- There is a status text, below the counter displaying whether the number is positive, negative, or neutral.
 - This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
 
 ## Project Images
 
-[Project Image 1](./assets/project-image-neutral.png)
-[Project Image 2](./assets/project-image-positive.png)
-[Project Image 1](./assets/project-image-negative.png)
+![Project Image 1](./assets/project-image-neutral.png)
+![Project Image 2](./assets/project-image-positive.png)
+![Project Image 1](./assets/project-image-negative.png)
 
 ## Project Learnings & Challenges
 
